@@ -1,5 +1,5 @@
 # Trying bootstrap5 alpha
-    This just playgroud code bootrap 5 alpha, i used tutorial from Media https://www.youtube.com/watch?v=I7CfaDYzTVM - Traversy!
+    This just playgroud code bootrap 5 alpha, i used tutorial from Media https://www.youtube.com/watch?v=I7CfaDYzTVM
 
 ## installation
 ```
